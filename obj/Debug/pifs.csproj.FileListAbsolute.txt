@@ -1,0 +1,11 @@
+C:\Users\sk17ollo\Desktop\gitty\pifs\obj\Debug\pifs.csprojAssemblyReference.cache
+C:\Users\sk17ollo\Desktop\gitty\pifs\obj\Debug\pifs.csproj.CoreCompileInputs.cache
+C:\Users\sk17ollo\Desktop\gitty\pifs\obj\Debug\pifs.AssemblyInfoInputs.cache
+C:\Users\sk17ollo\Desktop\gitty\pifs\obj\Debug\pifs.AssemblyInfo.cs
+C:\Users\sk17ollo\Desktop\gitty\pifs\bin\pifs.deps.json
+C:\Users\sk17ollo\Desktop\gitty\pifs\bin\pifs.runtimeconfig.json
+C:\Users\sk17ollo\Desktop\gitty\pifs\bin\pifs.runtimeconfig.dev.json
+C:\Users\sk17ollo\Desktop\gitty\pifs\bin\pifs.dll
+C:\Users\sk17ollo\Desktop\gitty\pifs\bin\pifs.pdb
+C:\Users\sk17ollo\Desktop\gitty\pifs\obj\Debug\pifs.dll
+C:\Users\sk17ollo\Desktop\gitty\pifs\obj\Debug\pifs.pdb
